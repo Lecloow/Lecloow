@@ -1,13 +1,11 @@
-🧏🏾 • who am i?
+# Who am I ?
 16 year old programming MENACE 🌐🥷🏾
 built different™ but still use nano sometimes 🗣️
 "when in doubt, try again using sudo" 🛐🔔
 love cars, love tech, love life (hate xcode)
 life is too short but i'm 6'6 how that work twih 🥀
-🙋🏾 • what am i?
-the beast
 
-📱 • my projects
+# 📱 • my projects
 Mythic – Run Windows® games on macOS | creator & sole dev 🧠💻
 
 gonna go platinum, mark my words.
@@ -20,20 +18,20 @@ it just works (those who know)
 
 Readme Card Readme Card
 
-🔙 my origins... 14 year old me cooked up on roblox back in the day
+# 🔙 my origins... 14 year old me cooked up on roblox back in the day
 aero. – blurred loading screen [roblox model].
 
 simplynotifiied. – object-oriented roblox player notifications built different™.
 
 SwordClash 2: Break of Dawn – unreleased tech demo of sorts flexing my game dev capabilities at the time
 
-👨🏾‍💻 • tools & languages
-🛠️ • tools
+# 👨🏾‍💻 • tools & languages
+## 🛠️ • tools
 fleet – JetBrains finally got it right 🙏🏾
 xcode – i use it because I have to, not because I want to 😭
 vscode - meh
 nano - god-tier ultra testosterone software i love nano
-🔠 • languages
+## 🔠 • languages
 swift - my GOAT, the language i use for Mythic (3/3 proficiency)
 python - goated OOP + are you even a software dev if you don't know python? (3/3 proficiency)
 html - it just works (2/3 proficiency)
@@ -41,7 +39,7 @@ css - versatile and doesnt love throwing random errors at me so im happy (2/3 pr
 javascript typescript - we should nuke javascript in favour of typescript (1/3 proficiency)
 C# - learned for fun, never used practically (1/3 proficiency)
 
-🚀 • aspirations
+## 🚀 • aspirations
 do cybersec (how shocking and polarising!!!!)
 make bank doing cybersec
 buy car idk
