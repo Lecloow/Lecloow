@@ -71,14 +71,14 @@ make bank doing cybersec
 
 buy car idk
 
+
+[![Lecloows's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=lecloow&show_icons=true&locale=en)](github.com/lecloow)
+[![Lecloows's Github stats](https://github-readme-stats.vercel.app/api?username=lecloow&show_icons=true&locale=en)](github.com/lecloow)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lecloow&show_icons=true&locale=en&layout=compact" alt="Lecloow's Github stats" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lecloow&show_icons=true&locale=en" alt="Lecloow's GitHub stats" /></p>
 
-
-
+[![Lecloow's trophy](https://github-profile-trophy.vercel.app/?username=lecloow)](https://github.com/lecloow)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lecloow" alt="lecloow" /></a> </p>
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lecloow&" alt="lecloow" /></p>
