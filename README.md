@@ -15,7 +15,6 @@ Life is too short but i'm 6'6 how that work twih 🥀
 # 📱 • my projects
 
 Embrava Light Control – Control your embrava light with a swiftUI app | creator & sole dev 🧠💻
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lecloow&repo=LightControl&theme=light" />
 [![Light](https://github-readme-stats.vercel.app/api/pin/?username=Lecloow&repo=LightControl&theme=light)](https://github.com/lecloow/lightcontrol)
 
 gonna go platinum, mark my words.
