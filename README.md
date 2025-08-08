@@ -77,4 +77,4 @@ buy car idk
 
 [![Lecloow's trophy](https://github-profile-trophy.vercel.app/?username=lecloow)](https://github.com/lecloow)
 
-[![Lecloow's streak](https://github-readme-streak-stats.herokuapp.com/?user=lecloow)](https://github.com/lecloow)
+[![Lecloow's Streak](https://github-readme-streak-stats.herokuapp.com?user=Lecloow)](https://github.com/lecloow)
