@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+https://camo.githubusercontent.com/daa279ca78be42b310b9d7d7ea35f996418037e6fc81a54fc91ce6732e7f2e9e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572
 
 # Who am I ?
 
@@ -22,9 +20,6 @@ gonna go platinum, mark my words.
 
 Readme Card
 
-![github.com/Lecloow/lightcontrol](github.com/lecloow/lightcontrol)
-
-http://github.com/Lecloow/lightcontrol
 
 Voxa + DiscordRPCBridge – alternative Discord client with native macOS styling, w/ direct support for discord's proprietary RPC server | co-owner & dev
 
@@ -74,6 +69,3 @@ make bank doing cybersec
 
 buy car idk
 
-![Lecloow's Stats](https://github-readme-stats.vercel.app/api?username=Lecloow&theme=vue&show_icons=true&hide_border=true&count_private=true)
-
-![Snake animation](https://github.com/lecloow/lecloow/blob/output/github-contribution-grid-snake.svg)
