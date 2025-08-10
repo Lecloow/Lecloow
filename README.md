@@ -27,7 +27,7 @@ simplynotifiied. – object-oriented roblox player notifications built different
 
 SwordClash 2: Break of Dawn – unreleased tech demo of sorts flexing my game dev capabilities at the time
 
-# 👨🏾‍💻 • tools & languages
+# 👨‍💻• tools & languages
 
 ## 🛠️ • tools
 
