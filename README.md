@@ -1,33 +1,23 @@
 ![Hello](https://camo.githubusercontent.com/daa279ca78be42b310b9d7d7ea35f996418037e6fc81a54fc91ce6732e7f2e9e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572)
 
+# Work in progress this is not my readme 
 ![Profile Views](https://komarev.com/ghpvc/?username=lecloow&label=Profile%20views&color=0e75b6&style=flat)
 # Who am I ?
 
-16 year old programming MENACE 🌐🥷🏾
+16 year old programming student 🇫🇷
 
 built different™ but still use nano sometimes 🗣️
 
 "when in doubt, try again using sudo" 🛐🔔
 
-love cars, love tech, love life (hate xcode)
-
-Life is too short but i'm 6'6 how that work twih 🥀
+love cars, love tech, love life 
 
 # 📱 • my projects
 
 Embrava Light Control – Control your embrava light with a swiftUI app | creator & sole dev 🧠💻
-[![Light](https://github-readme-stats.vercel.app/api/pin/?username=Lecloow&repo=LightControl&theme=light)](https://github.com/lecloow/lightcontrol)
-
 gonna go platinum, mark my words.
 
-Readme Card
-
-
-Voxa + DiscordRPCBridge – alternative Discord client with native macOS styling, w/ direct support for discord's proprietary RPC server | co-owner & dev
-
-it just works (those who know)
-
-Readme Card Readme Card
+[![Light](https://github-readme-stats.vercel.app/api/pin/?username=Lecloow&repo=LightControl&theme=light)](https://github.com/lecloow/lightcontrol)
 
 # 🔙 my origins... 14 year old me cooked up on roblox back in the day
 
@@ -41,9 +31,9 @@ SwordClash 2: Break of Dawn – unreleased tech demo of sorts flexing my game de
 
 ## 🛠️ • tools
 
-Fleet – JetBrains finally got it right 🙏🏾
+Fleet – JetBrains finally got it right 🙏
 
-Xcode – i use it because I have to, not because I want to 😭
+Xcode – I only use it for my projects
 
 vscode - meh
 
