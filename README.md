@@ -5,6 +5,8 @@
 
 17 year old programming student 🇫🇷
 
+Thomas Conchon (@Lecloow)
+
 “Code is like humor. When you have to explain it, it’s bad.” - Cory House
 
 love cars, love tech, love life 
