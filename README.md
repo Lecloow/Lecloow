@@ -13,6 +13,24 @@
 
 love cars, love tech, ~~love life~~ **Forza Ferrari ❤️‍🩹**
 
+# Projects
+
+### **🦋 Papillon - The Open Source School App (TypeScript/React Native)**
+* **Role** : Contributor 
+* **Experience Gained** : Real-world exposure to a large-scale **TypeScript/React Native codebase**, strict **code review** processes, and integrating with complex APIs (Pronote/ED).
+* **Stack** : TypeScript, React Native, React
+* **Impact** : The leading open-source alternative to proprietary French school management apps.
+
+<a href="https://github.com/PapillonApp/Papillon">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=PapillonApp&repo=Papillon&theme=dark">
+    
+    <img alt="Papillon GitHub Repository Card" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=PapillonApp&repo=Papillon&theme=default">
+  </picture>
+</a>
+
 # 👨‍💻• tools & languages
 
 ## 🛠️ • tools
@@ -35,15 +53,46 @@ CSS - it just work with HTML (2/3 proficiency)
 
 Typescript - we should nuke javascript in favour of typescript (1/3 proficiency)
 
-#Connect
+# Connect
 
 
 🧭 *“Great engineers don’t just write code — they design systems that last.”*
 
+<div align='center'>
 
-[![Lecloows's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=lecloow&show_icons=true&locale=en&layout=compact)](https://github.com/lecloow)
-[![Lecloows's Github stats](https://github-readme-stats.vercel.app/api?username=lecloow&show_icons=true&locale=en)](https://github.com/lecloow)
+  <a href="https://github.com/lecloow">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lecloow&show_icons=true&locale=en&layout=compact&theme=dark">
+      <img alt="Lecloows's Top Languages" 
+           src="https://github-readme-stats.vercel.app/api/top-langs?username=lecloow&show_icons=true&locale=en&layout=compact&theme=default">
+    </picture>
+  </a>
 
-[![Lecloow's trophy](https://github-profile-trophy.vercel.app/?username=lecloow)](https://github.com/lecloow)
+  <a href="https://github.com/lecloow">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://github-readme-stats.vercel.app/api?username=lecloow&show_icons=true&locale=en&theme=dark">
+      <img alt="Lecloows's Github Stats" 
+           src="https://github-readme-stats.vercel.app/api?username=lecloow&show_icons=true&locale=en&theme=default">
+    </picture>
+  </a>
 
-[![Lecloow's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lecloow)](https://github.com/lecloow)
+  <a href="https://github.com/lecloow">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://github-profile-trophy.vercel.app/?username=lecloow&theme=dark">
+      <img alt="Lecloows's Trophy" 
+           src="https://github-profile-trophy.vercel.app/?username=lecloow&theme=default">
+    </picture>
+  </a>
+  
+  <a href="https://github.com/lecloow">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://github-readme-streak-stats.herokuapp.com/?user=lecloow&theme=dark">
+      <img alt="Lecloows's Streak" 
+           src="https://github-readme-streak-stats.herokuapp.com/?user=lecloow&theme=default">
+    </picture>
+  </a>
+</div>
