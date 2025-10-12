@@ -16,12 +16,12 @@ love cars, love tech, ~~love life~~ **Forza Ferrari ❤️‍🩹**
 # Projects
 
 ### **🦋 Papillon - The Open Source School App (TypeScript/React Native)**
-* **Role** : Contributor 
-* **Experience Gained** : Real-world exposure to a large-scale **TypeScript/React Native codebase**, strict **code review** processes, and integrating with complex APIs (Pronote/ED).
-* **Stack** : TypeScript, React Native, React
-* **Impact** : The leading open-source alternative to proprietary French school management apps.
+- **Role** : Contributor 
+- **Experience Gained** : Real-world exposure to a large-scale **TypeScript/React Native codebase**, strict **code review** processes, and integrating with complex APIs (Pronote/ED).
+- **Stack** : TypeScript, React Native, React
+- **Impact** : The leading open-source alternative to proprietary French school management apps.
 
-<a href="https://github.com/PapillonApp/Papillon">
+  <a href="https://github.com/PapillonApp/Papillon">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
             srcset="https://github-readme-stats.vercel.app/api/pin/?username=PapillonApp&repo=Papillon&theme=dark">
