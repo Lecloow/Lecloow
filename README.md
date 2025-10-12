@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lecloow&label=Profile%20views&color=0e75b6&style=flat)
 
-# • Thomas Conchon (@Lecloow)
+# 🙋‍♂️ • Thomas Conchon (@Lecloow)
 
 💻 **Aspiring Software Engineer** passionate about open source, clean design, and high-performance systems.  
 
@@ -14,7 +14,7 @@ Currently doing the “100 Days of SwiftUI” challenge and learning from Stanfo
 
 love cars, love tech, ~~love life~~ **Forza Ferrari ❤️‍🩹**
 
-# • projects
+# 💻 • Projects
 
 ### **🦋 Papillon - The Open Source School App (TypeScript/React Native)** 
 
@@ -34,7 +34,7 @@ love cars, love tech, ~~love life~~ **Forza Ferrari ❤️‍🩹**
   </picture>
 </a>
 
-# • tools & languages
+# ⚙️ • tools & languages
 
 ## 🛠️ • tools
 
@@ -56,7 +56,7 @@ CSS 🎨 - it just work with HTML (2/3 proficiency)
 
 Typescript 💎 - we should nuke javascript in favour of typescript (1/3 proficiency)
 
-# • let’s collaborate
+# 💬 • Let’s collaborate
 
 Feel free to reach out for collaboration or discussion!
 
