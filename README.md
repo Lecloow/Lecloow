@@ -8,6 +8,7 @@
 
 17 year old high school student 🇫🇷
 
+Currently doing the “100 Days of SwiftUI” challenge and learning from Stanford’s CS193p course.
 
 *“Code is like humor. When you have to explain it, it’s bad.”* - Cory House
 
@@ -15,19 +16,21 @@ love cars, love tech, ~~love life~~ **Forza Ferrari ❤️‍🩹**
 
 # Projects
 
-### **🦋 Papillon - The Open Source School App (TypeScript/React Native)**
+### **🦋 Papillon - The Open Source School App (TypeScript/React Native)** 
+
+“Helping students survive school chaos 🦋”
+
 * **Role** : Contributor 
 * **Experience Gained** : Real-world exposure to a large-scale **TypeScript/React Native codebase**, strict **code review** processes, and integrating with complex APIs (Pronote/ED).
 * **Stack** : TypeScript, React Native, React
-* **Impact** : The leading open-source alternative to proprietary French school management apps.
+* **Impact** : Non-official alternative to proprietary French school management apps (École Directe/Pronote), serving over a million students.
 
-  <a href="https://github.com/PapillonApp/Papillon">
+<a href="https://github.com/PapillonApp/Papillon">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
             srcset="https://github-readme-stats.vercel.app/api/pin/?username=PapillonApp&repo=Papillon&theme=dark">
-    
     <img alt="Papillon GitHub Repository Card" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=PapillonApp&repo=Papillon&theme=default">
+         src="https://github-readme-stats.vercel.app/api/pin/?username=PapillonApp&repo=Papillon&theme=dark">
   </picture>
 </a>
 
@@ -39,22 +42,25 @@ Fleet – JetBrains finally got it right 🙏
 
 Xcode – my go-to for Apple ecosystem projects
 
-Vscode - meh
+Vscode - meh, we survive
 
 ## 🔠 • languages
 
-Swift - my GOAT, the language I use for all my projects (3/3 proficiency)
+Swift ❤️ - my GOAT, the language I use for all my projects (3/3 proficiency)
 
-Python - goated OOP + are you even a software dev if you don't know python? (3/3 proficiency)
+Python 🐍 - goated OOP + are you even a software dev if you don't know python? (3/3 proficiency)
 
-HTML - it just works (2/3 proficiency)
+HTML ⚡ - it just works (2/3 proficiency)
 
-CSS - it just work with HTML (2/3 proficiency)
+CSS 🎨 - it just work with HTML (2/3 proficiency)
 
-Typescript - we should nuke javascript in favour of typescript (1/3 proficiency)
+Typescript 💎 - we should nuke javascript in favour of typescript (1/3 proficiency)
 
 # Connect
 
+Feel free to reach out for collaboration or discussion!
+
+GitHub: Lecloow
 
 🧭 *“Great engineers don’t just write code — they design systems that last.”*
 
@@ -83,7 +89,7 @@ Typescript - we should nuke javascript in favour of typescript (1/3 proficiency)
       <source media="(prefers-color-scheme: dark)" 
               srcset="https://github-profile-trophy.vercel.app/?username=lecloow&theme=dark">
       <img alt="Lecloows's Trophy" 
-           src="https://github-profile-trophy.vercel.app/?username=lecloow&theme=default">
+           src="https://github-profile-trophy.vercel.app/?username=lecloow&theme=dark">
     </picture>
   </a>
   
