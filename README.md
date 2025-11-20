@@ -38,6 +38,8 @@ love cars, love tech, ~~love life~~ **Forza Ferrari ❤️‍🩹**
 
 ## 🛠️ • tools
 
+Intellij IDEA - Pure Banger. Just the best IDE ever made
+
 Fleet – JetBrains finally got it right 🙏
 
 Xcode – my go-to for Apple ecosystem projects
