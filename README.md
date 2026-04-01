@@ -1,5 +1,3 @@
-![Hello](https://camo.githubusercontent.com/daa279ca78be42b310b9d7d7ea35f996418037e6fc81a54fc91ce6732e7f2e9e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=lecloow&label=Profile%20views&color=0e75b6&style=flat)
 
 # 🙋‍♂️ • Thomas Conchon (@Lecloow)
@@ -16,14 +14,23 @@ love cars, love tech, ~~love life~~ **Forza Ferrari ❤️‍🩹**
 
 # 💻 • Projects
 
-### **🦋 Papillon - The Open Source School App (TypeScript/React Native)** 
+### ❤️ Affinities - Comite de promo 2026
+<a href="https://github.com/Lecloow/Affinities">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lecloow&repo=Affinities&theme=dark">
+    <img alt="Affinities GitHub Repository Card" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=Lecloow&repo=Affinities&theme=dark">
+  </picture>
+</a>
+
+### 🦋 Papillon - The Open Source School App
 
 “Helping students survive school chaos 🦋”
 
 * **Role** : Contributor 
-* **Experience Gained** : Real-world exposure to a large-scale **TypeScript/React Native codebase**, strict **code review** processes, and integrating with complex APIs (Pronote/ED).
-* **Stack** : TypeScript, React Native, React
-* **Impact** : Non-official alternative to proprietary French school management apps (École Directe/Pronote), serving over a million students.
+* **Stack** : TypeScript, React Native
+* **Impact** : Non-official alternative to proprietary French school management apps (Pronote/École Directe), serving over a million students.
 
 <a href="https://github.com/PapillonApp/Papillon">
   <picture>
@@ -48,15 +55,19 @@ Vscode - meh, we survive
 
 ## 🔠 • languages
 
-Swift ❤️ - my GOAT, the language I use for all my projects (3/3 proficiency)
+Swift ❤️ - my GOAT, the language I use for all my projects (main)
 
-Python 🐍 - goated OOP + are you even a software dev if you don't know python? (3/3 proficiency)
+Python 🐍 - goated OOP + are you even a software dev if you don't know python? (main)
 
-HTML ⚡ - it just works (2/3 proficiency)
+Go 🚀 — C speed, Python simplicity. What else? (fluent)
 
-CSS 🎨 - it just work with HTML (2/3 proficiency)
+HTML and CSS ⚡ - it just works
 
-Typescript 💎 - we should nuke javascript in favour of typescript (1/3 proficiency)
+Typescript 💎 - we should nuke javascript in favour of typescript (learning)
+
+C & C++ 💻 - Want to learn
+
+Rust 🦀 - Want to learn
 
 # 💬 • Let’s collaborate
 
