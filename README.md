@@ -15,13 +15,15 @@ love cars, love tech, ~~love life~~ **Forza Ferrari ❤️‍🩹**
 # 💻 • Projects
 
 ### ❤️ Affinities - Comite de promo 2026
+
 <a href="https://github.com/Lecloow/Affinities">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lecloow&repo=Affinities&theme=dark">
-    <img alt="Affinities GitHub Repository Card" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=Lecloow&repo=Affinities&theme=dark">
-  </picture>
+  <img src="./affinities-dark.svg#gh-dark-mode-only" />
+  <img src="./affinities-light.svg#gh-light-mode-only" />
+</a>
+
+<a href="https://github.com/Lecloow/NomDuProjet">
+  <img src="./projet-dark.svg#gh-dark-mode-only" />
+  <img src="./projet-light.svg#gh-light-mode-only" />
 </a>
 
 ### 🦋 Papillon - The Open Source School App
