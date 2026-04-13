@@ -7,6 +7,7 @@
 17 year old high school student 🇫🇷
 
 Currently doing the “100 Days of SwiftUI” challenge and learning from Stanford’s CS193p course.
+Learning how to create an artificial neural network from scratch.
 
 *“Code is like humor. When you have to explain it, it’s bad.”* - Cory House
 
