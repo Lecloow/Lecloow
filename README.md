@@ -7,6 +7,7 @@
 17 year old high school student 🇫🇷
 
 Currently doing the “100 Days of SwiftUI” challenge and learning from Stanford’s CS193p course.
+
 Learning how to create an artificial neural network from scratch.
 
 *“Code is like humor. When you have to explain it, it’s bad.”* - Cory House
@@ -18,11 +19,11 @@ love cars, love tech, ~~love life~~ **Forza Ferrari ❤️‍🩹**
 ### ❤️ Affinities - Comite de promo 2026
 
 One of my biggest projects.
+You can find a demo here: https://comitedepromo2026.fr
 
-* **Role**: FullStack Developer and Designer
+* **Role**: FullStack (Solo) Developer and Designer
 * **Stack**: Golang and React
 * **Impact**: A website made for a Saint Valentin event, used by 300 students. The goal was to create connections between students.
-You can find a demo here: https://comitedepromo2026.fr
 
 <a href="https://github.com/Lecloow/Affinities">
   <img src="./assets/affinities-dark.svg#gh-dark-mode-only" />
@@ -38,9 +39,9 @@ You can find a demo here: https://comitedepromo2026.fr
 
 “Helping students survive school chaos 🦋”
 
-* **Role** : Contributor 
-* **Stack** : TypeScript, React Native
-* **Impact** : Non-official alternative to proprietary French school management apps (Pronote/École Directe), serving over a million students.
+* **Role**: Contributor 
+* **Stack**: TypeScript, React Native
+* **Impact**: Non-official alternative to proprietary French school management apps (Pronote/École Directe), serving over a million students.
 
 <a href="https://github.com/PapillonApp/Papillon">
   <picture>
@@ -50,6 +51,8 @@ You can find a demo here: https://comitedepromo2026.fr
          src="https://github-readme-stats.vercel.app/api/pin/?username=PapillonApp&repo=Papillon&theme=dark">
   </picture>
 </a>
+
+### Kómma - The ultimate app to study
 
 # ⚙️ • tools & languages
 
