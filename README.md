@@ -17,6 +17,13 @@ love cars, love tech, ~~love life~~ **Forza Ferrari ❤️‍🩹**
 
 ### ❤️ Affinities - Comite de promo 2026
 
+One of my biggest projects.
+
+* **Role**: FullStack Developer and Designer
+* **Stack**: Golang and React
+* **Impact**: A website made for a Saint Valentin event, used by 300 students. The goal was to create connections between students.
+You can find a demo here: https://comitedepromo2026.fr
+
 <a href="https://github.com/Lecloow/Affinities">
   <img src="./assets/affinities-dark.svg#gh-dark-mode-only" />
   <img src="./assets/affinities-light.svg#gh-light-mode-only" />
