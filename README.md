@@ -16,7 +16,7 @@ love cars, love tech, ~~love life~~ **Forza Ferrari ❤️‍🩹**
 
 # 💻 • Projects
 
-### ❤️ [Affinities](https://github.com/lecloow/affinities) - Comite de promo 2026
+### ❤️ • [Affinities](https://github.com/lecloow/affinities) - Comite de promo 2026
 
 One of my biggest projects.
 You can find a demo here: https://comitedepromo2026.fr
@@ -25,7 +25,7 @@ You can find a demo here: https://comitedepromo2026.fr
 * **Stack**: Golang and React
 * **Impact**: A website made for a Saint Valentin event, used by 300 students. The goal was to create connections between students.
 
-### 🦋 [Papillon](https://github.com/PapillonApp/Papillon) - The Open Source School App
+### 🦋 • [Papillon](https://github.com/PapillonApp/Papillon) - The Open Source School App
 
 “Helping students survive school chaos 🦋”
 
@@ -33,13 +33,13 @@ You can find a demo here: https://comitedepromo2026.fr
 * **Stack**: TypeScript, React Native
 * **Impact**: Non-official alternative to proprietary French school management apps (Pronote/École Directe), serving over a million students.
 
-### 📋 [Kómma](https://github.com/Lecloow/Komma) - The ultimate app to study
+### 📋 • [Kómma](https://github.com/Lecloow/Komma) - The ultimate app to study
 
 A simple todo list in SwiftUI.
 * **Role**: FullStack (Solo) Developer and Designer
 * **Stack**: SwiftUI
 
-### 🧮 [Algorithms](https://github.com/Lecloow/Visualize-Algorithms) - A visualization of algorithms
+### 🧮 • [Algorithms](https://github.com/Lecloow/Visualize-Algorithms) - A visualization of algorithms
 A SwiftUI app to visualize algorithms easily.
 
 * **Role**: Solo Developer 
