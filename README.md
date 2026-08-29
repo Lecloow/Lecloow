@@ -33,13 +33,13 @@ You can find a demo here: https://comitedepromo2026.fr
 * **Stack**: TypeScript, React Native
 * **Impact**: Non-official alternative to proprietary French school management apps (Pronote/École Directe), serving over a million students.
 
-### [Kómma](https://github.com/Lecloow/Komma) - The ultimate app to study
+### 📋 [Kómma](https://github.com/Lecloow/Komma) - The ultimate app to study
 
 A simple todo list in SwiftUI.
 * **Role**: FullStack (Solo) Developer and Designer
 * **Stack**: SwiftUI
 
-### [Algorithms](https://github.com/Lecloow/Visualize-Algorithms) - A visualization of algorithms
+### 🧮 [Algorithms](https://github.com/Lecloow/Visualize-Algorithms) - A visualization of algorithms
 A SwiftUI app to visualize algorithms easily.
 
 * **Role**: Solo Developer 
