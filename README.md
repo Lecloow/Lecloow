@@ -82,6 +82,9 @@ GitHub: Lecloow
 🧭 *“Great engineers don’t just write code — they design systems that last.”*
 
 <div align='center'>
+  
+<script src="https://gist.github.com/Lecloow/a93b81fde9d314ed2603a64be3558308.js"></script>
+
 
   <a href="https://github.com/lecloow">
     <picture>
