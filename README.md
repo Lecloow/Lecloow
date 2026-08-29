@@ -4,7 +4,7 @@
 
 💻 **Aspiring Software Engineer** passionate about open source, clean design, and high-performance systems.  
 
-17 year old high school student 🇫🇷
+17 year old MP2I student 🇫🇷
 
 Currently doing the “100 Days of SwiftUI” challenge and learning from Stanford’s CS193p course.
 
@@ -25,7 +25,7 @@ You can find a demo here: https://comitedepromo2026.fr
 * **Stack**: Golang and React
 * **Impact**: A website made for a Saint Valentin event, used by 300 students. The goal was to create connections between students.
 
-### 🦋 Papillon - The Open Source School App
+### 🦋 [Papillon](https://github.com/PapillonApp/Papillon) - The Open Source School App
 
 “Helping students survive school chaos 🦋”
 
@@ -33,19 +33,29 @@ You can find a demo here: https://comitedepromo2026.fr
 * **Stack**: TypeScript, React Native
 * **Impact**: Non-official alternative to proprietary French school management apps (Pronote/École Directe), serving over a million students.
 
-### Kómma - The ultimate app to study
+### [Kómma](https://github.com/Lecloow/Komma) - The ultimate app to study
+
+A simple todo list in SwiftUI.
+* **Role**: FullStack (Solo) Developer and Designer
+* **Stack**: SwiftUI
+
+### [Algorithms](https://github.com/Lecloow/Visualize-Algorithms) - A visualization of algorithms
+A SwiftUI app to visualize algorithms easily.
+
+* **Role**: Solo Developer 
+* **Stack**: SwiftUI
 
 # ⚙️ • tools & languages
 
 ## 🛠️ • tools
 
-Intellij IDEA - Pure Banger. Just the best IDE ever made
+Zed - Pure Banger. Just the best IDE ever made.
 
-Fleet – JetBrains finally got it right 🙏
+Xcode – my go-to for Apple ecosystem projects.
 
-Xcode – my go-to for Apple ecosystem projects
+JetBrains IDEs – Used a lot but replaced by Zed.
 
-Vscode - meh, we survive
+Vscode - meh, we survive.
 
 ## 🔠 • languages
 
@@ -57,7 +67,7 @@ Go 🚀 — C speed, Python simplicity. What else? (fluent)
 
 HTML and CSS ⚡ - it just works
 
-Typescript 💎 - we should nuke javascript in favour of typescript (learning)
+Typescript 💎 - we should nuke javascript in favor of typescript (learning)
 
 C & C++ 💻 - Want to learn
 
