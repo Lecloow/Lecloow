@@ -16,7 +16,7 @@ love cars, love tech, ~~love life~~ **Forza Ferrari ❤️‍🩹**
 
 # 💻 • Projects
 
-### ❤️ Affinities - Comite de promo 2026
+### ❤️ [Affinities](https://github.com/lecloow/affinities) - Comite de promo 2026
 
 One of my biggest projects.
 You can find a demo here: https://comitedepromo2026.fr
@@ -25,16 +25,6 @@ You can find a demo here: https://comitedepromo2026.fr
 * **Stack**: Golang and React
 * **Impact**: A website made for a Saint Valentin event, used by 300 students. The goal was to create connections between students.
 
-<a href="https://github.com/Lecloow/Affinities">
-  <img src="./assets/affinities-dark.svg#gh-dark-mode-only" />
-  <img src="./assets/affinities-light.svg#gh-light-mode-only" />
-</a>
-
-<a href="https://github.com/Lecloow/NomDuProjet">
-  <img src="./assets/projet-dark.svg#gh-dark-mode-only" />
-  <img src="./assets/projet-light.svg#gh-light-mode-only" />
-</a>
-
 ### 🦋 Papillon - The Open Source School App
 
 “Helping students survive school chaos 🦋”
@@ -42,15 +32,6 @@ You can find a demo here: https://comitedepromo2026.fr
 * **Role**: Contributor 
 * **Stack**: TypeScript, React Native
 * **Impact**: Non-official alternative to proprietary French school management apps (Pronote/École Directe), serving over a million students.
-
-<a href="https://github.com/PapillonApp/Papillon">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=PapillonApp&repo=Papillon&theme=dark">
-    <img alt="Papillon GitHub Repository Card" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=PapillonApp&repo=Papillon&theme=dark">
-  </picture>
-</a>
 
 ### Kómma - The ultimate app to study
 
