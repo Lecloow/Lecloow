@@ -95,9 +95,9 @@ GitHub: Lecloow
   <a href="https://github.com/lecloow">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-              srcset="https://github-readme-stats.vercel.app/api?username=lecloow&show_icons=true&locale=en&theme=dark">
+           srcset="https://github-stats-extended.vercel.app/api?username=lecloow">
       <img alt="Lecloows's Github Stats" 
-           src="https://github-readme-stats.vercel.app/api?username=lecloow&show_icons=true&locale=en&theme=default">
+           src="https://github-stats-extended.vercel.app/api?username=lecloow">
     </picture>
   </a>
 
